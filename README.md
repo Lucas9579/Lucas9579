@@ -31,8 +31,6 @@ NotePad++编辑器
 
 VScode編輯器
 
-Intellij IDEA編譯器
-
 Android Studio編譯器
 
 VC++6.0編譯器
@@ -42,8 +40,6 @@ Dev-C++編譯器
 
 
 ##### 系統軟件
-
-360清理工具库
 
 WPS Office辦公
 
@@ -62,8 +58,6 @@ Potplayer視頻播放器
 Steam遊戲庫
 
 Rime小狼毫輸入法
-
-Quiker快捷操作
 
 WallpaperEngine壁紙
 
@@ -87,15 +81,11 @@ Telegram通訊
 
 ##### 日常軟件
 
-iTunes&&爱思助手
-
 QQ腾讯
 
 WeChat微信
 
 Chrome瀏覽器
-
-Edge瀏覽器
 
 音樂播放器
 
