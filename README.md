@@ -6,6 +6,8 @@ Vim，Typora，Git，GitHub进阶操作
 
 VSCode插件优化，Rime输入法
 
+实验报告，印书，博客
+
 
 ------
 
