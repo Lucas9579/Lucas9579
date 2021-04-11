@@ -16,3 +16,5 @@ VPS科学上网部署，tcp/udp over https，xray新协议，telegram
 
 orangepi 关闭指示灯,内网穿透，搭建wordpress，跳板访问LC
 网线
+博客园  思否  知乎 开源中国gitte
+v2ex  stackoverflow  helloworld.net
