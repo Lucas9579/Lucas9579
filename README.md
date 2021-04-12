@@ -6,15 +6,11 @@ VPS科学上网部署，tcp/udp over https，xray新协议，telegram
 
 ------
 
-哔哩哔哩‘稍后再看’，知乎收藏夹筛检，浏览器书签筛检——导入博客
+云服务器公网IP 121.4.176.26
 
-路由实验报告，印书，看电影
+orangepi 关闭指示灯,内网穿透，跳板访问LC，
+搭建wordpress
+博客园 知乎 思否 helloworld.net v2ex 
+stackoverflow github
 
-~命令行上传文件到云端的软件和命令~
-
-121.4.176.26
-
-orangepi 关闭指示灯,内网穿透，搭建wordpress，跳板访问LC
-网线
-博客园  思否  知乎 开源中国gitte
-v2ex  stackoverflow  helloworld.net
+路由实验报告，印书，看电影，充水卡
